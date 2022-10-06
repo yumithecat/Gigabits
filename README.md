@@ -1,4 +1,4 @@
-# NewDale - Gigabit
+# NewDale - Gigabits
  Check out our discord server <a href="https://newdale.net/discord">Here!</a> 
 
 This is the discord bot for the NewDale network, we use it to do some stuff on it :). And yes I was to lazy to code something myself and used a drag-and-drop builder /ᐠ - ˕ -マ Ⳋ
