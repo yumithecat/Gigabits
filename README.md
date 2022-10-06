@@ -6,10 +6,10 @@ And yes that drag and drop builder costs money too...
 
 <h3><b>1.Screenshots</b></h3>
 
-<img src="https://cdn.discordapp.com/attachments/923038751347847179/1027532255947673620/unknown.png" alt="Image 01">
+<img src="https://cdn.discordapp.com/attachments/923038751347847179/1027544247764787250/unknown.png" alt="Image 01">
 
 
-<img src="https://cdn.discordapp.com/attachments/923038751347847179/1027532353456836638/unknown.png" alt="Image 02">
+<img src="https://cdn.discordapp.com/attachments/923038751347847179/1027544314185789440/unknown.png" alt="Image 02">
 
 
 <h3><b>2.How can i use this?</b></h3>
