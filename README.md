@@ -1,3 +1,10 @@
+<img src="https://img.shields.io/github/languages/top/yumithecat/Gigabits"></img>
+<img src="https://img.shields.io/discord/852926510162509826?label=discord"></img>
+<img src="https://img.shields.io/github/repo-size/yumithecat/Gigabits"></img>
+<img src="https://img.shields.io/github/downloads/yumithecat/Gigabits/latest/total"></img>
+<img src="https://img.shields.io/github/issues/yumithecat/Gigabits"></img>
+<img src="https://img.shields.io/github/license/yumithecat/Gigabits"></img>
+<img src="https://img.shields.io/website?down_color=red&down_message=Offline&up_color=green&up_message=Online&url=https%3A%2F%2Fnewdale.net"></img>
 # NewDale - Gigabits
  Check out our discord server <a href="https://newdale.net/discord">Here!</a> 
 
